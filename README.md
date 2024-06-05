@@ -1,4 +1,5 @@
 # VerifyTextField
+Приложение проверяет варификацию кода и если вводится правильный код, то происходит переход на следующий ViewController
 
 ![Снимок экрана 2024-06-05 в 12 21 24](https://github.com/NikolayGrinko/VerifyTextField/assets/112849355/5a40401e-9914-467e-886f-f6c7a1c8d091)
 
